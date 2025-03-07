@@ -60,7 +60,7 @@ Ensure you have the following installed:
 
 5. Run the application:
    ```bash
-   npm start
+   node app.js
    ```
 
 6. Open the app in your browser by navigating to `http://localhost:3000`.
